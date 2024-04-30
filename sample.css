@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.flex-container {
+    display:flex;
+    background-color: DodgerBlue;
+}
+.flex-container> div {
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+</style>
+</head>
+
+</body>
+<h1> Create a Flex Container </h1>
